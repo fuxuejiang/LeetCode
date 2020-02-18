@@ -197,6 +197,13 @@
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
 | 146  | 困难  | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/#/) |          |    ❎     |
 
+
+> 实战题目 - LRU Catch
+
+| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 是否完成 |
+| :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
+| 146  | 困难  | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/#/) |          |    ❎     |
+
 ## 你可能感兴趣的经典话题
 
 🎒[01背包问题](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/theoreticalBasis/%E8%83%8C%E5%8C%85/backpack.md)
